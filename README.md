@@ -40,7 +40,7 @@ autonomous flight system development.
 
 The UAV uses two main processing platforms:
 
-### ESP32-S3 — Embedded Control
+### ESP32-S3 - Embedded Control
 
 Responsible for:
 
@@ -51,7 +51,7 @@ Responsible for:
 - Real-time telemetry visualization
 - Planned flight stabilization and motor control
 
-### Raspberry Pi 5 — High-Level Processing
+### Raspberry Pi 5 - High Level Processing
 
 Planned responsibilities:
 
