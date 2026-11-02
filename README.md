@@ -98,7 +98,7 @@ The mechanical design includes:
 
 ### Mechanical Prototype
 
-<img src="mechanical/images/drone-assembly.jpg" width="450" alt="UAV Mechanical Prototype">
+<img src="mechanical/images/fuselage-exterior.jpg" width="450" alt="UAV Mechanical Prototype">
 
 *Initial mechanical prototype showing the custom
 3D-printed fuselage and propulsion arm assembly.*
